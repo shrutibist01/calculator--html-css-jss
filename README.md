@@ -13,6 +13,6 @@ A simple calculator web application built using HTML, CSS, and JavaScript.
 ## Demo
 
 You can try out the calculator live by visiting the following link: 
-[Calculator Demo]((http://127.0.0.1:5500/calci.html))
+[Calculator Demo](https://shrutibist01.github.io/calculator--html-css-jss/calci.html)
 
 
